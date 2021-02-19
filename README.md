@@ -52,5 +52,5 @@
 * If you press y it will again go to add record & if you press n it go to main menu. 
 <img src="https://github.com/SanyamSwami123/SUPER-MARKET-BILLING-SYSTEM/blob/main/Projects_images/21.png"  width="500" title=""/>
 
-* Programs ends:  THANK YOU
+#### Programs ends:  THANK YOU
 <img src="https://github.com/SanyamSwami123/SUPER-MARKET-BILLING-SYSTEM/blob/main/Projects_images/22.png"  width="500" title=""/>
